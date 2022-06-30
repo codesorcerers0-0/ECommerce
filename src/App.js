@@ -17,6 +17,7 @@ function App() {
   return (
     <Router>
       <Header />
+      {/* //home */}
       <Home/>
       <Footer />
     </Router>
